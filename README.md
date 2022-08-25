@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Borazonic
 - 👀 I’m interested in full stack development and aplied machine learning
 - 🌱 I’m currently learning machine learning and back end development
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on back end development and applied 
 - 📫 How to reach me call me on +918910948935
 
 <!---
